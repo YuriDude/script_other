@@ -193,10 +193,3 @@ def process_excel():
 
 if __name__ == "__main__":
     process_excel()
-
-The important change
-
-Instead of:
-
-OUTPUT_FILE = "output_validated.xlsx"
-
